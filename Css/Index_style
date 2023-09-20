@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+}
+
+main {
+    border: 1px solid black;
+    padding: 10px;
+    color: red;
+}
+
+h1 {
+    border: 1px solid black;
+    margin: 10px;
+    color: red;
+}
+
+p {
+    border: 1px solid black;
+    margin: 10px;
+    color: red;
+}
