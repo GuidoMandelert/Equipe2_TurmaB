@@ -4,29 +4,29 @@ body {
 }
 
 main {
-    border: 1px solid black;
-    padding: 10px;
+    border: 0.1rem solid black;
+    padding: 1rem;
     color: red;
     text-align: center;
 }
 
 h1 {
-    border: 1px solid black;
-    margin: 10px;
+    border: 0.1rem solid black;
+    padding: 1rem;
     color: red;
     text-align: center;
 }
 
 h2 {
-    border: 1px solid black;
-    margin: 10px;
+    border: 0.1rem solid black;
+    padding: 1rem;
     color: red;
     text-align: center;
 }
 
 p {
-    border: 1px solid black;
-    margin: 10px;
+    border: 0.1rem solid black;
+    padding: 1rem;
     color: red;
     text-align: center;
 }
