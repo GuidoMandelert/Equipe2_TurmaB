@@ -1,0 +1,60 @@
+body {
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    border: 0.1rem solid black;
+    padding: 1rem;
+    color: red;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 0.1rem solid black;
+    margin: 1rem;
+    color: red;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 0.1rem solid black;
+    padding: 1rem;
+    margin: 1rem;
+    align-items: center;
+    position: relative;
+}
+
+.border{
+    border: 0.1rem solid black;
+    padding: 0.2rem;
+    margin: 0.5rem;
+}
+
+.section_main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+}
+
+
+h3{
+    font-size: 0.9rem;
+}
+
+h2{
+    border: 0.1rem solid black;
+    padding: 0.2rem;
+    margin: 0.5rem;
+    color: red;
+}
