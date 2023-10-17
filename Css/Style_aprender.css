@@ -19,12 +19,6 @@ header{
     color: red;
 }
 
-p {
-    color: red;
-    text-align: center;
-    font-size: 1.3rem;
-}
-
 footer{
     display: flex;
     flex-direction: row;
@@ -40,13 +34,6 @@ footer{
     border: 0.1rem solid black;
     padding: 0.2rem;
     margin: 0.5rem;
-}
-
-.section_main{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
 }
 
 ul{
