@@ -66,3 +66,18 @@ h2{
     margin: 0.5rem;
     color: red;
 }
+
+.img_raposa{
+    max-width:80% ;
+    max-height: 80%;
+}
+
+.img_casa{
+    max-width:60% ;
+    max-height: 80%;
+}
+
+.img_progresso{
+    max-width:70% ;
+    max-height: 80%;
+}
