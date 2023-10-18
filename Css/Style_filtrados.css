@@ -50,6 +50,7 @@ li{
     justify-content: center;
     align-items: center;
     margin: 0.5rem;
+    transform: translatex(-7.5%);
 }
 
 h3{
