@@ -68,3 +68,13 @@ h2{
     max-width:70% ;
     max-height: 80%;
 }
+
+.img_rank{
+    max-width:20% ;
+    max-height: 20%;
+}
+
+.img_barra{
+    max-width:80% ;
+    max-height: 20%;
+}
