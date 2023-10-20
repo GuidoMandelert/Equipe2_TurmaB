@@ -5,7 +5,6 @@ body {
 }
 
 main {
-    border: 0.1rem solid black;
     padding: 1rem;
     text-align: center;
     background-color: #FFED82;
@@ -15,10 +14,13 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    border: 0.1rem solid black;
+    border: 0.2rem solid black;
     margin: 1rem;
+    padding: 1rem;
     background-color: #FFF3A1;
     border-radius: 15%;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 footer{
@@ -50,7 +52,8 @@ footer{
 
 ul{
     list-style: none;
-    transform: translatex(-7.5%);
+    max-width: 85%;
+    transform: translateX(9%);
 }
 
 li{
@@ -62,12 +65,12 @@ li{
     margin: 0.5rem;
 }
 
-h3{
-    font-size: 0.9rem;
-}
-
 h2{
+    border: 0.1rem solid black;
+    padding: 1rem;
     margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .img_raposa{
@@ -101,4 +104,6 @@ h2{
 a{
     text-decoration: none;
     color: black;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 1.3rem;
 }

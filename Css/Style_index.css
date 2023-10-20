@@ -17,8 +17,11 @@ header{
     justify-content: center;
     border: 0.2rem solid black;
     margin: 1rem;
+    padding: 1rem;
     background-color: #FFF3A1;
     border-radius: 15%;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 footer{
@@ -54,7 +57,7 @@ footer{
     justify-content: center;
     align-items: center;
     max-width: 10rem;
-    transform: translateX(40%);
+    transform: translateX(45%);
 }
 
 .a_filtro{
@@ -66,7 +69,8 @@ footer{
 
 ul{
     list-style: none;
-    transform: translatex(-7.5%);
+    max-width: 85%;
+    transform: translateX(9%);
 }
 
 li{
@@ -78,14 +82,12 @@ li{
     margin: 0.5rem; 
 }
 
-h3{
-    font-size: 0.9rem;
-}
-
 h2{
     border: 0.1rem solid black;
-    padding: 0.2rem;
+    padding: 1rem;
     margin: 0.5rem;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .img_raposa{
@@ -130,4 +132,6 @@ h2{
 a{
     text-decoration: none;
     color: black;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 1.3rem;
 }

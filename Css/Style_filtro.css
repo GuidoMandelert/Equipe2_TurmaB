@@ -16,8 +16,11 @@ header{
     justify-content: center;
     border: 0.2rem solid black;
     margin: 1rem;
+    padding: 1rem;
     background-color: #FFF3A1;
     border-radius: 15%;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 footer{
@@ -49,17 +52,20 @@ footer{
 
 ul{
     list-style: none;
+    padding: 2rem;
 }
 
-
-h3{
-    font-size: 0.9rem;
+li{
+    font-size: 1.4rem;
+    font-family: 'Abhaya Libre', serif;
 }
 
 h2{
     border: 0.1rem solid black;
-    padding: 0.2rem;
+    padding: 1rem;
     margin: 0.5rem;
+    font-size: 1.7rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .img_raposa{
