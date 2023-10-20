@@ -1,41 +1,63 @@
 body {
     padding: 1rem;
     text-align: center;
+    background-color: #f8a834;
+    padding-bottom: 30%;
 }
 
 main {
-    border: 0.1rem solid black;
     padding: 1rem;
-    color: red;
     text-align: center;
+    background-color: #FFED82;
 }
 
 header{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    border: 0.1rem solid black;
+    border: 0.2rem solid black;
     margin: 1rem;
-    color: red;
+    background-color: #FFF3A1;
+    border-radius: 15%;
 }
 
 footer{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    border: 0.1rem solid black;
-    padding: 1rem;
-    margin: 1rem;
     align-items: center;
+    position: fixed;
+    min-width:100%;
+    border-top: 0.1rem solid black; 
+    bottom: 0;
+    left: -0.5%; 
+    background-color: #602400;
 }
 
 .border{
     border: 0.1rem solid black;
+    border-radius: 5%;
     padding: 0.2rem;
     margin: 0.5rem;
 }
 
 .section_main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.section_filtro{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 10rem;
+    transform: translateX(40%);
+}
+
+.a_filtro{
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -64,7 +86,6 @@ h2{
     border: 0.1rem solid black;
     padding: 0.2rem;
     margin: 0.5rem;
-    color: red;
 }
 
 .img_raposa{
@@ -88,11 +109,21 @@ h2{
 }
 
 .img_filtro{
-    max-width:15% ;
-    max-height: 15%;
+    max-width:20% ;
+    max-height: 20%;
+    padding: 1rem;
 }
 
 .img_prato{
     max-width:20% ;
     max-height: 20%;
 }
+
+.bk{
+    background-color: white;
+}
+
+.bk2{
+    background-color:#FFF3A1;
+}
+

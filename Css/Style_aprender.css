@@ -1,13 +1,15 @@
 body {
     padding: 1rem;
     text-align: center;
+    background-color: #f8a834;
+    padding-bottom: 30%;
 }
 
 main {
     border: 0.1rem solid black;
     padding: 1rem;
-    color: red;
     text-align: center;
+    background-color: #FFED82;
 }
 
 header{
@@ -16,22 +18,26 @@ header{
     justify-content: center;
     border: 0.1rem solid black;
     margin: 1rem;
-    color: red;
+    background-color: #FFF3A1;
+    border-radius: 15%;
 }
 
 footer{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    border: 0.1rem solid black;
-    padding: 1rem;
-    margin: 1rem;
     align-items: center;
-    position: relative;
+    position: fixed;
+    min-width:100%;
+    border-top: 0.1rem solid black; 
+    bottom: 0;
+    left: -0.5%; 
+    background-color: #602400; 
 }
 
 .border{
     border: 0.1rem solid black;
+    border-radius: 5%;
     padding: 0.2rem;
     margin: 0.5rem;
 }
@@ -72,4 +78,13 @@ h3{
 .img_dif{
     max-width:20% ;
     max-height: 20%;
+    margin-left: 1rem;
+}
+
+.bk{
+    background-color: white;
+}
+
+.bk2{
+    background-color:#FFF3A1;
 }
