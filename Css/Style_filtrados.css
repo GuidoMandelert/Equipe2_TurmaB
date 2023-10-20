@@ -96,3 +96,7 @@ h2{
 .bk2{
     background-color:#FFF3A1;
 }
+a{
+    text-decoration: none;
+    color: black;
+}

@@ -75,7 +75,7 @@ li{
     justify-content: center;
     align-items: center;
     border: 0.1rem solid black;
-    margin: 0.5rem;
+    margin: 0.5rem; 
 }
 
 h3{
@@ -127,3 +127,7 @@ h2{
     background-color:#FFF3A1;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
