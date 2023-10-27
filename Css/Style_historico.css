@@ -9,6 +9,7 @@ main {
     padding: 1rem;
     text-align: center;
     background-color: #FFED82;
+    position: relative;
 }
 
 header{
@@ -105,4 +106,12 @@ a{
     color: black;
     font-family: 'Abhaya Libre', serif;
     font-size: 1.3rem;
+}
+
+.botao_seta{
+    max-width: 18%;
+    max-height: 18%;
+    position: absolute;
+    top: -1.8%;
+    left: -1.8%;
 }
