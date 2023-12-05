@@ -22,7 +22,7 @@ header{
     background-color: #FFF3A1;
     border-radius: 15%;
     font-size: 2rem;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'PT Serif', serif;
 }
 footer{
     display: flex;
@@ -71,7 +71,7 @@ h2{
     padding: 0.5rem;
     margin: 0.5rem;
     font-size: 1.5rem;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .img_raposa{
@@ -104,7 +104,7 @@ h2{
 a{
     text-decoration: none;
     color: black;
-    font-family: 'Abhaya Libre', serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-size: 1.3rem;
 }
 
